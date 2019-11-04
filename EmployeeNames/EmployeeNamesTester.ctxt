@@ -1,0 +1,6 @@
+#BlueJ class context
+comment0.target=EmployeeNamesTester
+comment0.text=\r\n\ Creates\ an\ object\ of\ EmployeeNames\ and\ uses\ an\ initializer\ list\ to\ give\ \r\n\ the\ last\ names\ that\ wil\ be\ formatted\ into\ an\ acceptable\ name\ by\ the\ boss.\r\n\ then\ the\ formatted\ array\ is\ printed\ out\ to\ see\ the\ acceptable\ names.\r\n\r\n\ @author\ Haley\ Sanchez\r\n\ @version\ 12/15/18\r\n
+comment1.params=args
+comment1.target=void\ main(java.lang.String[])
+numComments=2

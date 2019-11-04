@@ -1,0 +1,8 @@
+#BlueJ class context
+comment0.target=EmployeeNames
+comment0.text=\r\n\ Uses\ methods\ to\ find\ the\ accepted\ names\ for\ the\ company's\ boss.\r\n\ Uses\ arrays\ to\ store\ the\ last\ names\ and\ then\ the\ formatted\ name.\r\n\ The\ first\ initial\ must\ be\ the\ last\ letter\ in\ the\ persons\ last\ name.\r\n\ the\ middle\ initial\ is\ the\ second\ to\ last\ letter\ in\ the\ last\ name.\r\n\r\n\ @author\ Haley\ Sanchez\r\n\ @version\ 12/15/18\r\n
+comment1.params=
+comment1.target=EmployeeNames()
+comment2.params=lNames
+comment2.target=java.lang.String[]\ convertName(java.lang.String[])
+numComments=3
